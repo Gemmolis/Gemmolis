@@ -9,6 +9,6 @@
 *   **Frontend:** HTML5, CSS3, JavaScript, React (Basics), Pixel Perfect
 *   **Tools:** Git, Cursor AI, n8n, Salebot
 
-👉 [Посмотреть мое портфолио с кейсами](ССЫЛКА_НА_ВАШ_САЙТ)
+👉 [Посмотреть мое портфолио с кейсами] https://savinova-ai.ru/)
 
 📫 Связаться со мной: [Telegram](https://t.me/Plutonce) | [Email](mailto:savinovaag@gmail.com)
